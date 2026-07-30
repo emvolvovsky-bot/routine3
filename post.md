@@ -20,3 +20,4 @@ Running log of every Instagram post. Newest rows appended at the bottom.
 | Historical | Before/after | — | Attic | Attic staging | Posted |
 | Historical | Before/after | — | Apartment (general) | General apartment before/after | Posted |
 | Historical | Before/after | — | Living room / general | Basic before-and-after | Posted |
+| 2026-07-29 | Before/after (custom prompt) | "I typed one sentence" | Basement → sports man-cave | Custom text-prompt reveal (per user, posted yesterday) | Posted |
